@@ -1,8 +1,10 @@
 # CMPE460-TermProject
 CMPE 460 term project rep.
 ---
+Name:Mustafa Mohammed Hammood Hammood
 
-Contains source code, resources, and the database that was used to train the model.
+
+This file contains source code, resources, and the database that was used to train the model.
 
 
 Resourses:
